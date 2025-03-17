@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk4cTU0cHdocXN1YWZlNHNhOGhxb2s2enlsenNrM3l2YWQ2YnR1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tcxpqk0Dh6LWU/giphy.gif"  />
+</div>
+
 ## 👋 Hi there!
 
 ###
@@ -5,10 +9,6 @@
 I'm Thiago a logical developer focused on creating algorithms and integrating systems. I have a great passion for learning and experimenting with new technologies, which drives me to work on a variety of challenging projects!
 
 My main goal is to bridge the gap between clients and their systems.
-
-> “Do, or do not. There is no “try” — Yoda
-
-I started my journey in web development with simple projects, and over time, I've gained experience. Currently, I have over 2 years of experience with PHP, using modern frameworks like Laravel and Node.js. Additionally, I'm always seeking new tools and frameworks to expand my knowledge and skills.
 
 ###
 
@@ -49,17 +49,3 @@ I started my journey in web development with simple projects, and over time, I'v
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
 </div>
-
-###
-
-## 🌐 Socials
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/thiagoovz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
